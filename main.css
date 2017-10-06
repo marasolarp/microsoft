@@ -1,0 +1,57 @@
+/* body=todo lo que va adentro,text- align=sirve para alinear tanto los textos como las imagenes*/
+body{
+text-align: center;
+
+}
+
+.cuadrado-color{
+	/*background-color:red; color en ingles*/
+	background-color: lightgreen;
+	/*background-color:#77f442 color hexadecimal*/
+	padding-bottom: 20px/*dar espacio*/
+
+}
+p{
+	/*cambiar color de textos*/
+	color:#e81f14;
+	font-family: 'Shrikhand', cursive;
+}
+/*cambiar tipografia*/
+h1{
+	font-family: 'Hanalei', cursive;	
+}
+/*img{
+	width: 400px;ancho de imagen
+height: 400px;alto de imagen
+}
+*/
+/*cambiando tamaño de 1 foto*/
+.foto-grupo{
+	width: 400px;
+	height: 400px;
+}
+
+/*hacer el separador*/
+.enlaces{
+	border-top:  1px dashed lightblue;
+	/*buscar types border css*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
